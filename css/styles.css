@@ -2,7 +2,9 @@ h1 {
   text-align: center;
   font-family: 'Franklin Gothic Medium';
 }
-
+.jumbotron p {
+  text-align: center;
+}
 h3 {
   text-align: center;
 }
@@ -11,3 +13,15 @@ h3 {
   margin: 4%;
 }
 
+.price {
+  text-align: center;
+}
+
+.packageImage {
+  border-radius: 50%;
+  width: 100%;
+}
+
+#lastImage {
+  height: 20%;
+}
